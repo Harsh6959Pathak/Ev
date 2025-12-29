@@ -1,0 +1,23 @@
+# Python environment
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit-specific
+.streamlit/config.toml
+
+# Data files (Optional: add these if you don't want to upload large CSVs)
+*.csv
+*.xlsx
